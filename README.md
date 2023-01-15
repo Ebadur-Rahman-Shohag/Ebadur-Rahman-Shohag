@@ -2,7 +2,7 @@
 🔭 I'm currently working on Full Stack Web Development<br>✍ I'm currently learning ReactJs<br>❓ Ask me about Javascript and ReactJs<br>🎈 I am a movie lover
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ebadur.shohag) 
 
 # 💻 Tech Stack:
