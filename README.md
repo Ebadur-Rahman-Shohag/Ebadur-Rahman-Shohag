@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [https://vercel.com/ebadur-shohags-projects/updated-portfolio](https://vercel.com/ebadur-shohags-projects/updated-portfolio)
+- 👨‍💻 All of my projects are available at [https://vercel.com/ebadur-shohags-projects/updated-portfolio](https://updated-portfolio-one-rose.vercel.app/)
 
 - 💬 Ask me about **JavaScript and ReactJs**
 
