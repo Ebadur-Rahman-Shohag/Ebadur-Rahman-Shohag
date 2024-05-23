@@ -1,19 +1,16 @@
 ## Hi there 👋
+#### I am Ebadur Rahman
 
-<!--
 **Ebadur-Rahman-Shohag/Ebadur-Rahman-Shohag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I'm currently working on Full Stack Web Development
+✍ I'm currently learning ReactJs
+❓ Ask me about Javascript and ReactJs
+🎈 I am a movie lover
+
+[![](https://visitcount.itsvg.in/api?id=Ebadur-Rahman-Shohag&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ebadur-rahman-371a75252/) 
@@ -32,6 +29,6 @@ Here are some ideas to get you started:
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ebadur-Rahman-Shohag&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
