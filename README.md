@@ -1,14 +1,15 @@
-## Hi there 👋
-#### I am Ebadur Rahman
+<h1 align="center">Hi 👋, I'm Ebadur Rahman</h1>
+<h3 align="center">A passionate web developer from Bangladesh</h3>
 
-**Ebadur-Rahman-Shohag/Ebadur-Rahman-Shohag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **MERN STACK**
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [https://vercel.com/ebadur-shohags-projects/updated-portfolio](https://vercel.com/ebadur-shohags-projects/updated-portfolio)
 
-🔭 I'm currently working on Full Stack Web Development
-✍ I'm currently learning ReactJs
-❓ Ask me about Javascript and ReactJs
-🎈 I am a movie lover
+- 💬 Ask me about **JavaScript and ReactJs**
+
+- 📫 How to reach me **ebadurshohag@gmail.com**
+
+- ⚡ Fun fact **I am a movie lover**
 
 [![](https://visitcount.itsvg.in/api?id=Ebadur-Rahman-Shohag&icon=0&color=0)](https://visitcount.itsvg.in)
 
