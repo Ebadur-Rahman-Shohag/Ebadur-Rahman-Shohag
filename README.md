@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ebadur Rahman</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ebadur-Rahman-Shohag&label=Profile%20views&color=0e75b6&style=flat" alt="indrajit98" /> </p>
+
 - 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [https://vercel.com/ebadur-shohags-projects/updated-portfolio](https://updated-portfolio-one-rose.vercel.app/)
