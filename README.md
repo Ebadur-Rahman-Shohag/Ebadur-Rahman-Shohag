@@ -9,7 +9,7 @@
 - 📫 How to reach me **ebadurshohag@gmail.com**
 
 - ⚡ Fun fact **I am a movie lover**
-- 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebadur-rahman-371a75252/) 
 
@@ -24,6 +24,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-[![](https://visitcount.itsvg.in/api?id=Ebadur-Rahman-Shohag&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
