@@ -7,10 +7,10 @@
 - 💬 Ask me about **JavaScript and ReactJs**
 
 - 📫 How to reach me **ebadurshohag@gmail.com**
-- 
+  
 - ⚡ Fun fact **I am a movie lover**
   
-[![](https://visitcount.itsvg.in/api?id=Ebadur-Rahman-Shohag&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebadur-rahman-371a75252/) 
@@ -25,7 +25,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+[![](https://visitcount.itsvg.in/api?id=Ebadur-Rahman-Shohag&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
