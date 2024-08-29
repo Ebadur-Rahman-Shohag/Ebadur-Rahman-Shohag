@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ebadurshohag@gmail.com**
   
-- ⚡ Fun fact **I am a movie lover**
+- ⚡ Fun fact: **I am a movie lover**
   
 
 
